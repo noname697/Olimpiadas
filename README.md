@@ -1,4 +1,4 @@
-### **Procurando por atletas olímpicos? Nós te ajudamos!** 
+### **Procurando por atletas olímpicos? Imersão DEV com Google Gemini** 
 
 **O que essa aplicação faz?**
 
